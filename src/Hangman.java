@@ -1,5 +1,3 @@
-package com.teamtreehouse;
-
 import java.util.Scanner;
 
 public class Hangman {

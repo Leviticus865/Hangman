@@ -1,5 +1,3 @@
-package com.teamtreehouse;
-
 public class Game {
     private String answer;
     private String hits;
